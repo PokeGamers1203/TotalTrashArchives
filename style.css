@@ -1,0 +1,64 @@
+body {
+    background-color: gray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.container {
+    background-color: white;
+    width: 1400px;
+    height: auto;
+    margin: auto;
+}
+
+.heading {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.h-nav {
+    background-color: blueviolet;
+    padding: 2px;
+}
+
+.h-nav li {
+    display: inline;
+}
+
+.main-content {
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.brief-data {
+    width: 300px;
+    margin-right: 10px;
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+    float: right;
+}
+
+.brief-data h4 {
+    background-color: purple;
+    color: white;
+    padding: 2px;
+}
+
+.footer {
+    padding: 2px 20px 2px 2px;
+    text-align: right;
+    background-color: red;
+    color: white;
+    clear: both;
+}
